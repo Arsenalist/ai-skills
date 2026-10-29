@@ -1,0 +1,5 @@
+interface:
+  display_name: "Trim scope"
+  short_description: "Cut redundant and speculative scope from a ticket or spec"
+policy:
+  allow_implicit_invocation: false
