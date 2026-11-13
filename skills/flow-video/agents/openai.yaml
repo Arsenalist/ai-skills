@@ -1,0 +1,5 @@
+interface:
+  display_name: "Flow video"
+  short_description: "Silent video of how a code change works: one request as a sequence diagram, signatures, error paths, complexity, review checklist"
+policy:
+  allow_implicit_invocation: false

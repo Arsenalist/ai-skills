@@ -14,3 +14,4 @@ A skill only a person starts sets `disable-model-invocation: true` in `SKILL.md`
 | Skill | What it does |
 |---|---|
 | `trim-scope` | Cut what agreed scope doesn't need from a ticket, spec or conversation, then apply the cuts you pick. |
+| `flow-video` | Make a silent, text-led HyperFrames video of how a PR, commit, range or uncommitted change works: one request as a sequence diagram, traced at method-signature level, with its error codes, complexity hotspots and a human-review checklist. |
